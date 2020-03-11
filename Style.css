@@ -1,0 +1,13 @@
+.h1{
+    color: red;
+    font-size: larger;
+    border: 20px;
+}
+
+p{
+    color: red;
+}
+
+.ND{
+    border-image: round;
+}
